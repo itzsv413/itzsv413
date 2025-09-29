@@ -13,11 +13,11 @@
 
 ### 💡 Core Skills
 
-* **Frontend**: React.js, Next.js, TailwindCSS, Material UI
-* **Backend**: Node.js, Express.js, REST APIs, GraphQL
-* **Machine Learning**: Python, TensorFlow, PyTorch, FastAPI, Flask
-* **Databases**: MongoDB, PostgreSQL
-* **DevOps**: Docker, GitHub Actions, AWS/GCP/Azure
+* **Frontend**: React.js, Next.js,TailwindCSS, Material UI
+* **Backend**: Node.js, Express.js, REST APIs
+* **Machine Learning**: Python, TensorFlow, PyTorch, Flask
+* **Databases**: MongoDB, Cloudinary
+* **DevOps**: GitHub Actions, AWS/GCP/Azure
 
 ### 📚 Currently Learning
 
@@ -36,9 +36,8 @@
 
 ## 📂 Featured Projects
 
-* 🧠 **ML-Powered Full-Stack Web App** – Model + Backend + Frontend integration
-* 📈 **Data Analytics Dashboards** – Interactive visualization tools
-* 🌍 **Problem-Specific Solutions** – Prototypes aligned with real-world problem statements
+*🐾 **Digital Petcare** – Smart solution for pet health tracking and management
+*🖼️ **Virtual Art Gallery** – Interactive platform for showcasing and exploring digital artwork
 
 ---
 
