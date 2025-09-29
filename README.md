@@ -44,9 +44,8 @@
 
 ## 🤝 Connect With Me
 
-* 💼 [LinkedIn](https://linkedin.com/in/your-link)
-* 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-* 🐦 [Twitter](https://twitter.com/your-handle)
+* 💼 [LinkedIn](https://linkedin.com/in/sachin-vishwakarma)
+* 📧 Email: [sv809413@gmail.com](mailto:sv809413@gmail.com)
 
 ---
 
