@@ -36,8 +36,8 @@
 
 ## 📂 Featured Projects
 
-*🐾 **Digital Petcare** – Smart solution for pet health tracking and management
-*🖼️ **Virtual Art Gallery** – Interactive platform for showcasing and exploring digital artwork
+* 🐾 **Digital Petcare** – Smart solution for pet health tracking and management
+* 🖼️ **Virtual Art Gallery** – Interactive platform for showcasing and exploring digital artwork
 
 ---
 
