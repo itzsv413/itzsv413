@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate about **C++ Programming, Data Structures, and Backend Development**
+- 💻 Passionate about **Java Programming, Data Structures, and Backend Development**
 - 🧠 Strong interest in **Problem Solving and System Design**
 - ⚙️ Experienced in building **full-stack and system-based applications**
 - 🎯 Goal: To become a skilled software engineer building efficient and scalable systems
