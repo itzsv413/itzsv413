@@ -13,7 +13,7 @@
 
 ### 💡 Core Skills
 
-- **Languages**: C++, Java, Python, JavaScript  
+- **Languages**: Java, C++, Python, JavaScript  
 - **Core Concepts**: Data Structures & Algorithms, OOP, DBMS, REST APIs  
 - **Backend**: Node.js, Express.js  
 - **Frontend**: React.js, HTML, CSS  
